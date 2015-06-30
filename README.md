@@ -12,17 +12,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis neque i
 * Java - Avançado
 * Grails - Avançado
 * Php - Intermediário
-* Linux - Intermediário
-* Javascript, jquery - Avançado
 * Banco (Oracle, Postgresql)   
+* Linux - Intermediário
 * Testes automatizados (tdd)
+* Android 
+* Javascript, jquery - Avançado
 * Desenvolvimento Ágil 
 * Sistemas de controle de versão (git, svn)
 * Python
 * Scrum
 * Bootstrap
 * Ireport
-* Android 
+
 
 ## Experiência Profissional
 * Tribunal de Justiça TO - Programador - Atual

@@ -26,18 +26,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis neque i
 
 ## Experiência Profissional
 * Tribunal de Justiça TO - Programador - Atual
+
 Atualmente exercendo a  função de Analista de Sistemas Web, responsável por levantamento de requisitos, modelagem, elaborar manuais e implementar sistema. Dentro as atividades pode-se destacar a integração entre sistemas da área publica com a inicitiva privada e com outros orgão publicos.
 
 * Técnico em Tecnologia da Informação IFTO  - 04/2011 até 11/2011
+
 Desempenhando atividades de manutenção computadores e redes.
 
 * Programador IGEPREV TO - 02/2011 até 04/2011
+
 Desenvolvimento e manutenção de sistema previdênciário na plataform JEE.
 
 * Desenvolvedor Web na Prefeitura de Palmas -  01/2010 até 12/2012
+
 Desenvolvimento de portais e sistemas internos utilizando  a metodologia Scrum com e Django/Python
 
 * Bolsista Desenvolvedor SIGA, projeto de pesquisa do MEC  - 06/2009 até 06/2011
+
 Desenvolvimento de um sistema acadêmico, utilizado atualmente pela maiorias dos Institutos Federais, o qual foi desenvolvido em java(JSF, GlassFish, eclipse e Hibertante). O sistema foi desenvolvidor de forma colaborativa pelos IFs do Brasil e gerenciado pelo Redmine.
 
 

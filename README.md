@@ -14,7 +14,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis neque i
 * Php - Intermediário
 * Linux - Intermediário
 * Javascript, jquery - Avançado
-
 * Banco (Oracle, Postgresql)   
 * Testes automatizados (tdd)
 * Desenvolvimento Ágil 
@@ -23,11 +22,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis neque i
 * Scrum
 * Bootstrap
 * Ireport
+* Android 
 
 ## Experiência Profissional
 * Tribunal de Justiça TO - Programador - Atual
 
-Atualmente exercendo a  função de Analista de Sistemas Web, responsável por levantamento de requisitos, modelagem, elaborar manuais e implementar sistema. Dentro as atividades pode-se destacar a integração entre sistemas da área publica com a inicitiva privada e com outros orgão publicos.
+> Atualmente exercendo a  função de Analista de Sistemas Web, responsável pelo levantamento de requisitos, > modelagem, elaboração de manuais e implementação de sistemas web. Dentro as atividades pode-se destacar a >integração entre sistemas da área publica com a inicitiva privada e com outros orgão publicos. 
 
 * Técnico em Tecnologia da Informação IFTO  - 04/2011 até 11/2011
 

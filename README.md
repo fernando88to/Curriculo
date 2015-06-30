@@ -11,22 +11,32 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis neque i
 
 * Java - Avançado
 * Grails - Avançado
-* Php - Intermédiario
+* Php - Intermediário
+* Linux - Intermediário
 * Javascript - Avançado
+* Groovy
 * Banco (Oracle, Postgresql)   
 * Testes automatizados (tdd)
 * Desenvolvimento Ágil 
 * Sistemas de controle de versão (git, svn)
 * Python
+* Scrum
+
+## Experiência Profissional
+* Tribunal de Justiça TO - Programador - Atual
+ Concursado como programador
 
 
 ## Formação
 
 * Técnologo em Sistema para Internet - IFTO
+* Técnico em Informática - IFTO
 
 
 ## Cursos
 
-* tesadadfas
-* sdfsdfsd
+* Desenvolvimento Python/Django - Marinho Brandão
+* Acessibilidade na Web - Instituto Federal BEnto Gonçalves - RS
+* 
+
  

@@ -56,8 +56,13 @@ A mais recente novidade foi a implantação de um aplicativo mobile para a plata
 
 ## Cursos
 
-* Desenvolvimento Python/Django - Marinho Brandão
-* Acessibilidade na Web - Instituto Federal BEnto Gonçalves - RS
-* 
+* Alfresco Open  Source Enterprise - Márcio Junior Vireira - 32 horas - 2013  - presencial
+* Desenvolvimento Enterprise com PHP - 4Linux - 40 horas - 2011 - presencial
+* Desenvolvimento Orientado a objetos  com  PHP - 40 horas - 2011 - presencial
+* Capacitação em desenvolvimento Web Acessível - IFRS Campus Bentos Gonçalves - 20 horas - 2010 - presencial
+* Desenvolvimento Python/Django - 3Way Networks  - 40 horas - 2009 - presencial
+
+
+ 
 
  

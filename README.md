@@ -3,7 +3,7 @@
 email: fernando88to@gmail.com
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis neque in odio iaculis placerat. Nulla quis ante laoreet, varius quam aliquet, cursus massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis augue neque, mattis quis elit nec, luctus suscipit tellus. Etiam iaculis diam at est dignissim, id ornare leo sagittis. Nam mattis nisl erat, in posuere augue sagittis quis. Nulla urna risus, tempus id dui suscipit, auctor tincidunt mauris. Duis porttitor elementum aliquam.
+Trabalho a 6 anos no desenvolvimento web, principalmente na plataforma Java EE, contudo tenho grande interesses por outras linguagens principalmente as de script. Atualmente trabalho no densevolvimento e levantamento de requisitos e tenho aprendido a cada dia que a trabalhar menos e produzir mais. Constumo dizer que não trabalho e sim que me divirto pois  faço o que gosto.
 
 
 

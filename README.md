@@ -50,8 +50,8 @@ A mais recente novidade foi a implantação de um aplicativo mobile para a plata
 
 ## Formação
 
-* Técnologo em Sistema para Internet - IFTO
-* Técnico em Informática - IFTO
+* Técnologo em Sistema para Internet - IFTO - 2013
+* Técnico em Informática - IFTO - 2009
 
 
 ## Cursos

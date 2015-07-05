@@ -20,6 +20,7 @@ Trabalho a 6 anos no desenvolvimento web, principalmente na plataforma Java EE, 
 * Desenvolvimento Ágil 
 * Sistemas de controle de versão (git, svn)
 * Python
+* Laravel 5.1
 * Scrum
 * Bootstrap
 * Ireport

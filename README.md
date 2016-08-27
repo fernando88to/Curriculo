@@ -9,8 +9,8 @@ Trabalho a 6 anos no desenvolvimento web, principalmente na plataforma Java EE, 
 
 ## Conhecimentos
 
-* Java - Avançado
 * Grails - Avançado
+* Java - Avançado
 * Php - Intermediário
 * Banco (Oracle, Postgresql)   
 * Linux - Intermediário

@@ -14,7 +14,7 @@ Trabalho a 6 anos no desenvolvimento web, principalmente na plataforma Java EE, 
 * Php - Intermediário
 * Banco (Oracle, Postgresql)   
 * Linux - Intermediário
-* Gestão de Projetos - PMBOk
+* Gestão de Projetos - PMBOK
 * Testes automatizados (tdd)
 * Android 
 * Javascript, jquery - Avançado

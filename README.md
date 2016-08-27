@@ -14,6 +14,7 @@ Trabalho a 6 anos no desenvolvimento web, principalmente na plataforma Java EE, 
 * Php - Intermediário
 * Banco (Oracle, Postgresql)   
 * Linux - Intermediário
+* Gestão de Projetos - PMBOk
 * Testes automatizados (tdd)
 * Android 
 * Javascript, jquery - Avançado
@@ -58,6 +59,7 @@ A mais recente novidade foi a implantação de um aplicativo mobile para a plata
 
 ## Cursos
 
+* Curso Estratégia e Gerenciamento de Projetos - Leandro Siqueira - 36 Horas - 2016 - presencial
 * Gestão de Equipes, Liderança e Relações Humanas - Vera Mello(http://facebook.com.br/VeraMelloVM)  - 24 horas - 2016  - presencial
 * Alfresco Open  Source Enterprise - Márcio Junior Vireira - 32 horas - 2013  - presencial
 * Desenvolvimento Enterprise com PHP - 4Linux - 40 horas - 2011 - presencial

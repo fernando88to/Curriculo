@@ -20,7 +20,7 @@ Trabalho a 6 anos no desenvolvimento web, principalmente na plataforma Java EE, 
 * Desenvolvimento Ágil 
 * Sistemas de controle de versão (git, svn)
 * Python
-* Laravel 5.1
+* Integração Contínua
 * Scrum
 * Bootstrap
 * Ireport
@@ -51,6 +51,7 @@ A mais recente novidade foi a implantação de um aplicativo mobile para a plata
 
 ## Formação
 
+* Pós em Desenvolvimento de Aplicativo Móveis - Em andamento
 * Técnologo em Sistema para Internet - IFTO - 2013
 * Técnico em Informática - IFTO - 2009
 

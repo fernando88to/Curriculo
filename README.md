@@ -53,7 +53,7 @@ A mais recente novidade foi a implantação de um aplicativo mobile para a plata
 
 ## Formação
 
-* Pós em Desenvolvimento de Aplicativo Móveis - Em andamento
+* Pós em Desenvolvimento de Aplicativo Móveis - Católica do Tocantins - Em andamento
 * Técnologo em Sistema para Internet - IFTO - 2013
 * Técnico em Informática - IFTO - 2009
 

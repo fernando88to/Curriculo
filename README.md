@@ -31,7 +31,7 @@ Trabalho a 6 anos no desenvolvimento web, principalmente na plataforma Java EE, 
 ## Experiência Profissional
 * Tribunal de Justiça TO - Programador - Atual
 
-> Atualmente exercendo a  função de Analista de Sistemas Web, responsável pelo levantamento de requisitos,  modelagem, elaboração de manuais e implementação de sistemas web. Dentro as atividades pode-se destacar a integração entre sistemas da área publica com a iniciativa privada e com outros orgão publicos. 
+> Atualmente exercendo a  função de Analista de Sistemas Web, responsável pelo levantamento de requisitos,  modelagem, elaboração de manuais e implementação de sistemas web. Dentro as atividades pode-se destacar a integração entre sistemas da área publica com a iniciativa privada e com outros orgão públicos. 
 A mais recente novidade foi a implantação de um aplicativo mobile para a plataforma android [Selo Digital](https://play.google.com/store/apps/details?id=gov.br.to.tj.SeloDigital&hl=pt_BR)
 
 * Técnico em Tecnologia da Informação IFTO  - 04/2011 até 11/2011

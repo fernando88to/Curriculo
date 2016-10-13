@@ -11,12 +11,11 @@ Trabalho a 6 anos no desenvolvimento web, principalmente na plataforma Java EE, 
 
 * Grails - Avançado
 * Java - Avançado
-* Php - Intermediário
 * Banco (Oracle, Postgresql)   
 * Linux - Intermediário
+* Android 
 * Gestão de Projetos - PMBOK
 * Testes automatizados (tdd)
-* Android 
 * Javascript, jquery - Avançado
 * Desenvolvimento Ágil 
 * Sistemas de controle de versão (git, svn)

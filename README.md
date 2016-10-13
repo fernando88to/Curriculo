@@ -6,25 +6,6 @@ email: fernando88to@gmail.com
 Trabalho a 6 anos no desenvolvimento web, principalmente na plataforma Java EE, contudo tenho grande interesses por outras linguagens principalmente as de script. Atualmente trabalho no densevolvimento e levantamento de requisitos e tenho aprendido a cada dia que a trabalhar menos e produzir mais, constumo dizer que não trabalho e sim que me divirto pois faço o que gosto.
 
 
-
-## Conhecimentos
-
-* Grails, Groovy - Avançado
-* Java - Avançado
-* Banco (Oracle, Postgresql)   
-* Linux - Intermediário
-* Android 
-* Gestão de Projetos - PMBOK
-* Testes automatizados (tdd)
-* Javascript, jquery - Avançado
-* Desenvolvimento Ágil 
-* Integração Contínua
-* Scrum
-* Bootstrap
-* Ireport
-* Node JS(em estudo)
-
-
 ## Experiência Profissional
 * Tribunal de Justiça TO - Programador - Atual
 
@@ -68,6 +49,22 @@ A mais recente novidade foi a implantação de um aplicativo mobile para a plata
 * Desenvolvimento Python/Django - 3Way Networks  - 40 horas - 2009 - presencial
 
 
+## Conhecimentos
+
+* Grails, Groovy - Avançado
+* Java - Avançado
+* Banco (Oracle, Postgresql)   
+* Linux - Intermediário
+* Android 
+* Gestão de Projetos - PMBOK
+* Testes automatizados (tdd)
+* Javascript, jquery - Avançado
+* Desenvolvimento Ágil 
+* Integração Contínua
+* Scrum
+* Bootstrap
+* Ireport
+* Node JS(em estudo)
  
 
  

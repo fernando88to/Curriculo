@@ -18,8 +18,6 @@ Trabalho a 6 anos no desenvolvimento web, principalmente na plataforma Java EE, 
 * Testes automatizados (tdd)
 * Javascript, jquery - Avançado
 * Desenvolvimento Ágil 
-* Sistemas de controle de versão (git, svn)
-* Python
 * Integração Contínua
 * Scrum
 * Bootstrap

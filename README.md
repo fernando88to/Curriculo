@@ -55,6 +55,7 @@ A mais recente novidade foi a implantação de um aplicativo mobile para a plata
 * Java - Avançado
 * Banco (Oracle, Postgresql)   
 * Linux - Intermediário
+* Google App Engine
 * Android 
 * Gestão de Projetos - PMBOK
 * Testes automatizados (tdd)

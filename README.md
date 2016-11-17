@@ -35,6 +35,10 @@ A mais recente novidade foi a implantação de um aplicativo mobile para a plata
 * Técnologo em Sistema para Internet - IFTO - 2013
 * Técnico em Informática - IFTO - 2009
 
+## Aplicativos Desenvolvidos
+
+* [Selo Digital](https://play.google.com/store/apps/details?id=gov.br.to.tj.SeloDigital&hl=pt_BR)
+
 
 ## Cursos
 

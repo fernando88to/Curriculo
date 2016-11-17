@@ -28,16 +28,17 @@ A mais recente novidade foi a implantação de um aplicativo mobile para a plata
 
 > Desenvolvimento de um sistema acadêmico, utilizado atualmente pela maiorias dos Institutos Federais, o qual foi desenvolvido em java(JSF, GlassFish, eclipse e Hibertante). O sistema foi desenvolvidor de forma colaborativa pelos IFs do Brasil e gerenciado pelo Redmine.
 
+## Aplicativos Desenvolvidos
+
+* [Selo Digital](https://play.google.com/store/apps/details?id=gov.br.to.tj.SeloDigital&hl=pt_BR)
+* [Chegou Diário](https://play.google.com/store/apps/details?id=gov.br.to.tj.SeloDigital&hl=pt_BR)
+
 
 ## Formação
 
 * Pós em Desenvolvimento de Aplicativo Móveis - Católica do Tocantins - Presencial - Em andamento
 * Técnologo em Sistema para Internet - IFTO - 2013
 * Técnico em Informática - IFTO - 2009
-
-## Aplicativos Desenvolvidos
-
-* [Selo Digital](https://play.google.com/store/apps/details?id=gov.br.to.tj.SeloDigital&hl=pt_BR)
 
 
 ## Cursos

@@ -3,7 +3,7 @@
 email: fernando88to@gmail.com
 
 
-Trabalho a 6 anos no desenvolvimento web, principalmente na plataforma Java EE, contudo tenho grande interesses por outras tecnologias. Atualmente trabalho no densevolvimento e levantamento de requisitos.
+Trabalho a 6 anos no desenvolvimento web, principalmente na plataforma Java EE, contudo tenho grande interesses por outras tecnologias.
 
 
 ## Experiência Profissional

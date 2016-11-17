@@ -31,7 +31,7 @@ A mais recente novidade foi a implantação de um aplicativo mobile para a plata
 ## Aplicativos Desenvolvidos
 
 * [Selo Digital](https://play.google.com/store/apps/details?id=gov.br.to.tj.SeloDigital&hl=pt_BR)
-* [Chegou Diário](https://play.google.com/store/apps/details?id=gov.br.to.tj.SeloDigital&hl=pt_BR)
+* [Chegou Diário](https://play.google.com/store/apps/details?id=fernando88to.com.chegoudiario&hl=pt_BR)
 
 
 ## Formação

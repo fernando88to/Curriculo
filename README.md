@@ -43,6 +43,12 @@ A mais recente novidade foi a implantação de um aplicativo mobile para a plata
 
 ## Cursos
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 * Gerenciamento de Versões GIT - 4Linux, Gabriel Pimenta - 16 Horas - 2016 - presencial
 * Curso Estratégia e Gerenciamento de Projetos - Leandro Siqueira - 36 Horas - 2016 - presencial
 * Gestão de Equipes, Liderança e Relações Humanas - Vera Mello(http://facebook.com.br/VeraMelloVM)  - 24 horas - 2016  - presencial

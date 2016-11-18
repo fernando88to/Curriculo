@@ -43,11 +43,11 @@ A mais recente novidade foi a implantação de um aplicativo mobile para a plata
 
 ## Cursos
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Curso         | Instituiçã          o | Ano  | Modalidade|
+| ------------- |:-------------:| -----:| -----:|
+| col 3 is      | right-aligned | $1600 | $1600 |
+| col 2 is      | centered      |   $12 | $1600 |
+| zebra stripes | are neat      |    $1 | $1600 |
 
 * Gerenciamento de Versões GIT - 4Linux, Gabriel Pimenta - 16 Horas - 2016 - presencial
 * Curso Estratégia e Gerenciamento de Projetos - Leandro Siqueira - 36 Horas - 2016 - presencial

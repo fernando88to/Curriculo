@@ -45,7 +45,7 @@ A mais recente novidade foi a implantação de um aplicativo mobile para a plata
 
 | Curso         | Instituição | Ano  | Carga Horária| Modalidade|
 | ------------- |:-------------:| -----:| -----:| -----:|
-| Gerenciamento de Versões GIT      |Leandro Siqueira | 36 Horas | 2016 |presencial |
+| Gerenciamento de Versões GIT      |Leandro Siqueira , 4 Linux | 36 Horas | 2016 |presencial |
 | Curso Estratégia e Gerenciamento de Projetos      | Vera Mello (http://facebook.com.br/VeraMelloVM) | 24 Horas | 2016 |presencial |
 | Gestão de Equipes, Liderança e Relações Humanas      | Itexto(http://formacao.itexto.com.br/) | 40 H | 2016 |Telepresencial(ao vivo)  |
 | Treinamento Falando de Grails     | right-aligned | $1600 | $1600 |$1600 |

@@ -3,7 +3,7 @@
 email: fernando88to@gmail.com
 
 
-Trabalho a 6 anos no desenvolvimento web, principalmente na plataforma Java EE, contudo tenho grande interesses por outras tecnologias.
+Trabalho a 6 anos com desenvolvimento Web, principalmente na plataforma Java EE, contudo tenho grande interesses por outras tecnologias.
 
 
 ## Experiência Profissional
@@ -45,11 +45,11 @@ A mais recente novidade foi a implantação de um aplicativo mobile para a plata
 
 | Curso         | Instituição | Ano  | Carga Horária| Modalidade|
 | ------------- |:-------------:| -----:| -----:| -----:|
-| col 3 is      | right-aligned | $1600 | $1600 |$1600 |
+| Gerenciamento de Versões GIT      | 4Linux, Gabriel Pimenta | 16 Horas | 2016 |presencial |
 | col 3 is      | right-aligned | $1600 | $1600 |$1600 |
 | col 3 is      | right-aligned | $1600 | $1600 |$1600 |
 
-* Gerenciamento de Versões GIT - 4Linux, Gabriel Pimenta - 16 Horas - 2016 - presencial
+*  -  -  - 2016 - 
 * Curso Estratégia e Gerenciamento de Projetos - Leandro Siqueira - 36 Horas - 2016 - presencial
 * Gestão de Equipes, Liderança e Relações Humanas - Vera Mello(http://facebook.com.br/VeraMelloVM)  - 24 horas - 2016  - presencial
 * Treinamento Falando de Grails - Itexto(http://formacao.itexto.com.br/) - 40 horas - Telepresencial(ao vivo) 

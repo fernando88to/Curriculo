@@ -45,13 +45,15 @@ A mais recente novidade foi a implantação de um aplicativo mobile para a plata
 
 | Curso         | Instituição | Ano  | Carga Horária| Modalidade|
 | ------------- |:-------------:| -----:| -----:| -----:|
-| Gerenciamento de Versões GIT      | 4Linux, Gabriel Pimenta | 16 Horas | 2016 |presencial |
+| Gerenciamento de Versões GIT      |Leandro Siqueira | 36 Horas | 2016 |presencial |
+| Curso Estratégia e Gerenciamento de Projetos      | Vera Mello(http://facebook.com.br/VeraMelloVM) | 24 Horas | 2016 |presencial |
+| Gestão de Equipes, Liderança e Relações Humanas      | right-aligned | $1600 | $1600 |$1600 |
 | col 3 is      | right-aligned | $1600 | $1600 |$1600 |
 | col 3 is      | right-aligned | $1600 | $1600 |$1600 |
 
-*  -  -  - 2016 - 
-* Curso Estratégia e Gerenciamento de Projetos - Leandro Siqueira - 36 Horas - 2016 - presencial
-* Gestão de Equipes, Liderança e Relações Humanas - Vera Mello(http://facebook.com.br/VeraMelloVM)  - 24 horas - 2016  - presencial
+
+
+*  -   - 24 horas - 2016  - presencial
 * Treinamento Falando de Grails - Itexto(http://formacao.itexto.com.br/) - 40 horas - Telepresencial(ao vivo) 
 * Alfresco Open  Source Enterprise - Ambiente Livre(http://www.ambientelivre.com.br) Márcio Junior Vireira - 32 horas - 2013  - presencial
 * Desenvolvimento Enterprise com PHP - 4Linux - 40 horas - 2013 - presencial

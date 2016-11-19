@@ -49,8 +49,7 @@ A mais recente novidade foi a implantação de um aplicativo mobile para a plata
 |Curso Estratégia e Gerenciamento de Projetos | Leandro Siqueira | 36 Horas | 2016 | presencial |
 |Gestão de Equipes, Liderança e Relações Humanas | [Vera Mello](http://facebook.com.br/VeraMelloVM) | 24 horas | 2016 | presencial|
 |Treinamento Falando de Grails | [Itexto](http://formacao.itexto.com.br/) | 40 horas | 2016| Telepresencial(ao vivo)|
-
-[Quora profile link for Adam D'Angelo](http://www.quora.com/Adam-DAngelo)
+Alfresco Open Source Enterprise | [Ambiente Livre](http://www.ambientelivre.com.br) | 32 horas | 2013 | presencial|
 
 
 ## Conhecimentos

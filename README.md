@@ -53,7 +53,7 @@ Alfresco Open Source Enterprise | [Ambiente Livre](http://www.ambientelivre.com.
 |Desenvolvimento Enterprise com PHP | 4Linux | 40 horas | 2013 | presencial|
 |Desenvolvimento Orientado a objetos com PHP | 4Linux | 40 horas | 2013 | presencial|
 |Capacitação em desenvolvimento Web Acessível | IFRS Campus Bentos Gonçalves | 20 horas | 2010 | presencial|
-|Desenvolvimento Python/Django | 3Way Networks | 40 horas | 2009 | presencial|
+|Desenvolvimento Python/Django | [3Way Networks](http://3way.com.br/) | 40 horas | 2009 | presencial|
 
 
 ## Conhecimentos

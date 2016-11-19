@@ -37,8 +37,8 @@ Trabalho a 6 anos com desenvolvimento Web, principalmente na plataforma Java EE,
 | Curso         | Instituição |Nível|Modalidade| Ano Conclusão|
 | ------------- |-------------|:---------:|:-----:|:-----:|:-----:|
 |Desenvolvimento de Aplicativo Móveis | Católica do Tocantins | Pós | presencial | Em andamento|
-|Técnologo em Sistema para Internet | [IFTO](www.ifto.edu.br/) | Superior | presencial | 2013
-|Técnico em Informática | [IFTO](www.ifto.edu.br/) | Técnico| presencial | 2009 |
+|Técnologo em Sistema para Internet | [IFTO](http://www.ifto.edu.br) | Superior | presencial | 2013
+|Técnico em Informática | [IFTO](http://www.ifto.edu.br/) | Técnico| presencial | 2009 |
 
 
 ## Cursos
@@ -56,7 +56,7 @@ Alfresco Open Source Enterprise | [Ambiente Livre](http://www.ambientelivre.com.
 |Desenvolvimento Python/Django | [3Way Networks](http://3way.com.br/) | 40 horas | 2009 | presencial|
 
 
-## Conhecimentos
+## Tecnologias
 
 * Grails, Groovy - Avançado
 * Java - Avançado

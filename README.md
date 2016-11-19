@@ -44,7 +44,7 @@ A mais recente novidade foi a implantação de um aplicativo mobile para a plata
 ## Cursos
 
 | Curso         | Instituição | Ano  | Carga Horária| Modalidade|
-| ------------- |-------------| -----| -----| -----:|
+| ------------- |-------------|:-----:|:-----:|:-----:|
 | Gerenciamento de Versões GIT      |Leandro Siqueira , 4 Linux | 36 Horas | 2016 |presencial |
 
 

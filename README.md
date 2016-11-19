@@ -56,7 +56,7 @@ Alfresco Open Source Enterprise | [Ambiente Livre](http://www.ambientelivre.com.
 |Desenvolvimento Python/Django | [3Way Networks](http://3way.com.br/) | 40 horas | 2009 | presencial|
 
 
-## Tecnologias
+## Domínios das Tecnologias
 
 * Grails, Groovy - Avançado
 * Java - Avançado

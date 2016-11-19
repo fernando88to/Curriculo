@@ -43,7 +43,7 @@ A mais recente novidade foi a implantação de um aplicativo mobile para a plata
 
 ## Cursos
 
-| Curso         | Instituição | Ano  | Carga Horária| Modalidade|
+| Curso         | Instituição | Carga Horária | Ano | Modalidade|
 | ------------- |-------------|:-----:|:-----:|:-----:|
 | Gerenciamento de Versões GIT      |4Linux | 36 Horas | 2016 |presencial |
 

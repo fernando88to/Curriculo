@@ -13,7 +13,7 @@ Trabalho a 6 anos com desenvolvimento Web, principalmente na plataforma Java EE,
 
 * Técnico em Tecnologia da Informação IFTO  - 04/2011 até 11/2011
 
-> Desempenhando atividades de manutenção computadores e redes.
+> Atividades de manutenção computadores e redes.
 
 * Programador IGEPREV TO - 02/2011 até 04/2011
 

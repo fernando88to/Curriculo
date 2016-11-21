@@ -45,7 +45,7 @@ Trabalho a 6 anos com desenvolvimento Web, principalmente na plataforma Java EE,
 
 | Curso         | Instituição | Carga Horária | Ano | Modalidade|
 | ------------- |-------------|:-----:|:-----:|:-----:|
-| Treinamento oficial em Oracle Database 12c: Administration Workshop| [G3 Comércio e Sistemas ](http://www.g3solutions.com.br/)| 40 Horas | Em andamento |presencial |
+| Treinamento oficial : Oracle Database 12c: Administration Workshop Ed 2| [G3 Comércio e Sistemas ](http://www.g3solutions.com.br/)| 40 Horas | Em andamento |presencial |
 | Gerenciamento de Versões GIT      |[4Linux](https://www.4linux.com.br/) | 36 Horas | 2016 |presencial |
 |Curso Estratégia e Gerenciamento de Projetos | Leandro Siqueira | 36 Horas | 2016 | presencial |
 |Gestão de Equipes, Liderança e Relações Humanas | [Vera Mello](http://facebook.com.br/VeraMelloVM) | 24 horas | 2016 | presencial|

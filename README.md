@@ -45,14 +45,14 @@ Trabalho a 6 anos com desenvolvimento Web, principalmente na plataforma Java EE,
 
 | Curso         | Instituição | Carga Horária | Ano | Modalidade|
 | ------------- |-------------|:-----:|:-----:|:-----:|
-| Treinamento oficial em Oracle Database 12c: Administration Workshop| [G3 Comércio e Sistemas ](http://www.g3solutions.com.br/)| 40 Horas | 2016 |presencial |
-| Gerenciamento de Versões GIT      |4Linux | 36 Horas | 2016 |presencial |
+| Treinamento oficial em Oracle Database 12c: Administration Workshop| [G3 Comércio e Sistemas ](http://www.g3solutions.com.br/)| 40 Horas | Em andamento |presencial |
+| Gerenciamento de Versões GIT      |[4Linux](https://www.4linux.com.br/) | 36 Horas | 2016 |presencial |
 |Curso Estratégia e Gerenciamento de Projetos | Leandro Siqueira | 36 Horas | 2016 | presencial |
 |Gestão de Equipes, Liderança e Relações Humanas | [Vera Mello](http://facebook.com.br/VeraMelloVM) | 24 horas | 2016 | presencial|
 |Treinamento Falando de Grails | [Itexto](http://formacao.itexto.com.br/) | 40 horas | 2015| telepresencial (ao vivo)|
 Alfresco Open Source Enterprise | [Ambiente Livre](http://www.ambientelivre.com.br) | 32 horas | 2013 | presencial|
-|Desenvolvimento Enterprise com PHP | 4Linux | 40 horas | 2013 | presencial|
-|Desenvolvimento Orientado a objetos com PHP | 4Linux | 40 horas | 2013 | presencial|
+|Desenvolvimento Enterprise com PHP | [4Linux](https://www.4linux.com.br/) | 40 horas | 2013 | presencial|
+|Desenvolvimento Orientado a objetos com PHP | [4Linux](https://www.4linux.com.br/) | 40 horas | 2013 | presencial|
 |Capacitação em desenvolvimento Web Acessível | IFRS Campus Bentos Gonçalves | 20 horas | 2010 | presencial|
 |Desenvolvimento Python/Django | [3Way Networks](http://3way.com.br/) | 40 horas | 2009 | presencial|
 

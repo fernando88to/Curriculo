@@ -56,18 +56,14 @@ Alfresco Open Source Enterprise | [Ambiente Livre](http://www.ambientelivre.com.
 
 * Grails, Groovy - Avançado
 * Java - Avançado
-* Banco (Oracle, Postgresql)   
+* Banco (Oracle)
 * Linux - Intermediário
 * Google App Engine
 * Android 
 * Gestão de Projetos - PMBOK
 * Testes automatizados (tdd)
-* Javascript, jquery - Avançado
-* Desenvolvimento Ágil 
+* Desenvolvimento Ágil(Extreme Programming, XP)
 * Integração Contínua
-* Scrum
-* Bootstrap
-* Ireport
 * Node JS(em estudo)
 
 

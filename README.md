@@ -71,6 +71,6 @@ Alfresco Open Source Enterprise | [Ambiente Livre](http://www.ambientelivre.com.
 * Node JS(em estudo)
 
 
-## Languages
+## Idiomas
 
 * Inglês (avançado técnico, fluente em leitura)

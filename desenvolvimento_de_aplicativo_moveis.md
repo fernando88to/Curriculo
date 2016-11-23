@@ -1,6 +1,6 @@
 Instituição: Faculdade Católica do Tocantins
 
-Carga Horária:  380 Horas
+Carga Horária:  420 Horas
 
 Início: 08/2016
 

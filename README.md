@@ -69,6 +69,8 @@ Alfresco Open Source Enterprise | [Ambiente Livre](http://www.ambientelivre.com.
 * Bootstrap
 * Ireport
 * Node JS(em estudo)
- 
 
- 
+
+## Languages
+
+* Inglês (avançado técnico, fluente em leitura)

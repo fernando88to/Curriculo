@@ -1,6 +1,9 @@
 Instituição: Católica do Tocantins
+
 Carga Horária:  380 Horas
+
 Início: 08/2016
+
 Conclusão: em andamento
 
 Módulos

@@ -12,14 +12,14 @@ Módulos
 * Introdução ao Desenvolvimento para Android
 * Desenvolvimento Android Avançado
 * Desenvolvimento para Android com Arduino
-* Introdução à Programação  com c#
+* Introdução à Programação com C#
 * Xamarin
-* Swift
-* iOS
-* Plataformas Híbridas
-* Projeto de Interface
-* Games
-* Metodologia Científica
+* Introdução à Programação com Swift
+* Desenvolvimento de Aplicativos para IOS
+* Desenvolvimento de Aplicativos utilizando Plataformas Híbridas
+* Projeto de Interface para Dispositivos Móveis
+* Jogos Eletrônicos para Dispositivos Móveis
+* Metodologia da Pesquisa Científica
 * Ética
 
 

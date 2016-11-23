@@ -13,5 +13,13 @@ Módulos
 * Desenvolvimento Android Avançado
 * Desenvolvimento para Android com Arduino
 * Introdução à Programação  com c#
+* Xamarin
+* Swift
+* iOS
+* Plataformas Híbridas
+* Projeto de Interface
+* Games
+* Metodologia Científica
+* Ética
 
 

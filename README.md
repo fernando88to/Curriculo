@@ -7,7 +7,7 @@ Trabalho a 6 anos com desenvolvimento Web, principalmente na plataforma Java EE,
 
 
 ## Experiência Profissional
-* Tribunal de Justiça TO - Programador - Início em 11/2011
+* Tribunal de Justiça TO - Início em 11/2011
     - Atualmente exercendo a  função de Analista de Sistemas Web, responsável pelo levantamento de requisitos,  modelagem, elaboração de manuais e implementação de sistemas web. Dentre as atividades destaca-se integração entre sistemas da área pública com a iniciativa privada e com outros orgão públicos. 
 
 * Técnico em Tecnologia da Informação IFTO  - 04/2011 até 11/2011

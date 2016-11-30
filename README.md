@@ -16,7 +16,7 @@ Trabalho a 6 anos com desenvolvimento Web, principalmente na plataforma Java EE,
 * Programador IGEPREV TO - 02/2011 até 04/2011
   - Desenvolvimento e manutenção de sistema previdenciário na plataforma JEE.
 
-* Desenvolvedor Web na Prefeitura de Palmas -  01/2010 até 12/2012
+* Desenvolvedor Web na Prefeitura de Palmas -  01/2010 até 02/2011
     - Desenvolvimento de portais e sistemas internos utilizando a metodologia Scrum com Django/Python.
 
 * Bolsista Desenvolvedor SIGA, projeto de pesquisa do MEC  - 06/2009 até 06/2011

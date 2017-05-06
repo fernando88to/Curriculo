@@ -55,17 +55,18 @@ Alfresco Open Source Enterprise | [Ambiente Livre](http://www.ambientelivre.com.
 
 ## Conhecimentos
 
-* Grails, Groovy - Avançado
-* Java - Avançado
-* Banco (Oracle)
+* Grails, Groovy 
+* Java 
 * Linux - Intermediário
-* Google App Engine
+* Cloud(Google App Engine, AWS, Heroku, getupcloud)
 * Android 
-* Gestão de Projetos - PMBOK
+* Banco de Dados (Oracle, MongoDB)
 * Testes automatizados (tdd)
 * Desenvolvimento Ágil(Extreme Programming, XP)
+* Node JS
 * Integração Contínua
-* Node JS(em estudo)
+* Gestão de Projetos - PMBOK
+
 
 
 ## Idiomas

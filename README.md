@@ -57,16 +57,15 @@ Alfresco Open Source Enterprise | [Ambiente Livre](http://www.ambientelivre.com.
 
 * Grails, Groovy 
 * Java 
-* Linux - Intermediário
+* Banco de Dados (Oracle, MongoDB)
+* Linux (Ubuntu e Deepin)
+* Testes automatizados (tdd)
 * Cloud(Google App Engine, AWS, Heroku, getupcloud)
 * Android 
-* Banco de Dados (Oracle, MongoDB)
-* Testes automatizados (tdd)
 * Desenvolvimento Ágil(Extreme Programming, XP)
 * Node JS
 * Integração Contínua
 * Gestão de Projetos - PMBOK
-
 
 
 ## Idiomas

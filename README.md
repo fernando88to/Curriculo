@@ -40,7 +40,7 @@ Trabalho a 6 anos com desenvolvimento web, principalmente na plataforma Java EE,
 
 | Curso         | Instituição | Carga Horária | Ano | Modalidade|
 | ------------- |-------------|:-----:|:-----:|:-----:|
-| Scrum| [Caelum ](https://www.caelum.com.br/)| 16 Horas | 2017 |presencial |
+| Gerenciamento Ágil de Projetos de Software com Scrum| [Caelum ](https://www.caelum.com.br/)| 16 Horas | 2017 |presencial |
 | Treinamento oficial : Oracle Database 12c: Administration Workshop Ed 2| [3DB ](http://www.3db.net.br/www/)| 40 Horas | 2016 |presencial |
 | Gerenciamento de Versões GIT      |[4Linux](https://www.4linux.com.br/) | 36 Horas | 2016 |presencial |
 |Curso Estratégia e Gerenciamento de Projetos | Leandro Siqueira | 36 Horas | 2016 | presencial |

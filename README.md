@@ -65,6 +65,7 @@ Alfresco Open Source Enterprise | [Ambiente Livre](http://www.ambientelivre.com.
 * Linux (Ubuntu e Deepin)
 * Desenvolvimento Ágil(Extreme Programming,  Scrum, YouTrack )
 * Integração Contínua
+* EcmaScript 6
 * Gestão de Projetos - PMBOK
 
 

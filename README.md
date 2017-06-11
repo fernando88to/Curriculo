@@ -57,13 +57,13 @@ Alfresco Open Source Enterprise | [Ambiente Livre](http://www.ambientelivre.com.
 
 * Grails, Groovy, Java
 * Banco de Dados (Oracle, MongoDB)
-* Cloud(Google App Engine, AWS, Heroku, getupcloud)
-* Android (desenvolvimento nativo)
+* Cloud(Google App Engine, getupcloud)
+* Node JS
 * Ionic 2 (desenvolvimento híbrido para Android e Iphone)
+* Android (desenvolvimento nativo)
 * Testes automatizados
 * Linux (Ubuntu e Deepin)
-* Desenvolvimento Ágil(Extreme Programming e Scrum)
-* Node JS
+* Desenvolvimento Ágil(Extreme Programming,  Scrum, YouTrack )
 * Integração Contínua
 * Gestão de Projetos - PMBOK
 

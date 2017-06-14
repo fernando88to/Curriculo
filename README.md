@@ -22,11 +22,6 @@ Trabalho a 6 anos com desenvolvimento web, principalmente na plataforma Java EE,
 * Bolsista Desenvolvedor SIGA, projeto de pesquisa do MEC  - 06/2009 até 06/2011
   - Desenvolvimento de um sistema acadêmico, utilizado atualmente pela maiorias dos Institutos Federais, o qual foi desenvolvido em java(JSF, GlassFish, eclipse e Hibertante). O sistema foi desenvolvido de forma colaborativa pelos IFs do Brasil e gerenciado pelo Redmine.
 
-## Aplicativos Desenvolvidos
-
-* [Selo Digital](https://play.google.com/store/apps/details?id=gov.br.to.tj.SeloDigital&hl=pt_BR)
-* [Chegou Diário](https://play.google.com/store/apps/details?id=fernando88to.com.chegoudiario&hl=pt_BR)
-
 
 ## Formação
 | Curso         | Instituição | Nível | Modalidade | Ano Conclusão|

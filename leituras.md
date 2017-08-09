@@ -2,9 +2,6 @@
 
 ### Leituras
 
-Histórico da minha leituras.
-
-
 
 | Livro | Idioma | Data Leitura |
 | ------ | ------ | ------ |

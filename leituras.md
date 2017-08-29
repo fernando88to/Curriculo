@@ -6,10 +6,10 @@
 | Livro | Idioma | Data Leitura |
 | ------ | ------ | ------ |
 | ![Gramática de Uso Da Língua Inglesa](http://mthumbs.buscape.com.br/livros/gramatica-de-uso-da-lingua-inglesa-a-gramatica-do-ingles-na-ponta-da-lingua-9788535241570_300x300-PU6e7a88bd_1.jpg) | Inglês | Lendo |
-| ![Batman Begins](http://english-e-books.net/books/elementary/Batman_Begins-Goyer_David/Batman_Begins-Goyer_David.jpg) | Inglês | Lendo |
-| ![ECMAScript 6](https://cdn.shopify.com/s/files/1/0155/7645/products/yPVDxju4tCeqY45tdQtvOZo6bdCztD7A1gUZHRoZ5wU_large.jpg?v=1490381498) | Português | 03/2017 |
-| ![Angular](https://cdn.shopify.com/s/files/1/0155/7645/products/Amazon-Aplicacoes-com-Angular_large.jpg?v=1494010530) | Português | 05/2017 |
-| ![Node.js](https://cdn.shopify.com/s/files/1/0155/7645/products/nodejs-featured_large.png?v=1411486494) | Português | 01/2017 |
+| ![Batman Begins](http://english-e-books.net/books/elementary/Batman_Begins-Goyer_David/Batman_Begins-Goyer_David.jpg) | Inglês | 2017 |
+| ![ECMAScript 6](https://cdn.shopify.com/s/files/1/0155/7645/products/yPVDxju4tCeqY45tdQtvOZo6bdCztD7A1gUZHRoZ5wU_large.jpg?v=1490381498) | Português | 2017 |
+| ![Angular](https://cdn.shopify.com/s/files/1/0155/7645/products/Amazon-Aplicacoes-com-Angular_large.jpg?v=1494010530) | Português | 2017 |
+| ![Node.js](https://cdn.shopify.com/s/files/1/0155/7645/products/nodejs-featured_large.png?v=1411486494) | Português | 2017 |
 | ![Java SE 8 Programmer I](https://cdn.shopify.com/s/files/1/0155/7645/products/certificacao-java-featured_large.png?v=1431470873) | Português | 2016 |
 | ![Google App Engine](https://cdn.shopify.com/s/files/1/0155/7645/products/0rFczV31owpuKMbo6C_L8M9_HmhQiz8R-0NHeYJ_3og_size_mode_3_size_1024x768_large.jpeg?v=1456513904) | Português | 04/2016 |
 | ![Falando de Grails](https://cdn.shopify.com/s/files/1/0155/7645/products/grails-featured_large.png?v=1429737103)| Português | 2014 |

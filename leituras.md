@@ -5,7 +5,8 @@
 
 | Livro | Idioma | Data Leitura |
 | ------ | ------ | ------ |
-| ![Gramática de Uso Da Língua Inglesa](http://mthumbs.buscape.com.br/livros/gramatica-de-uso-da-lingua-inglesa-a-gramatica-do-ingles-na-ponta-da-lingua-9788535241570_300x300-PU6e7a88bd_1.jpg) | Inglês | Lendo |
+| ![The Lady or the Tiger](| ![Gramática de Uso Da Língua Inglesa](http://mthumbs.buscape.com.br/livros/gramatica-de-uso-da-lingua-inglesa-a-gramatica-do-ingles-na-ponta-da-lingua-9788535241570_300x300-PU6e7a88bd_1.jpg) | Inglês | Lendo |) | Inglês | Lendo |
+| ![Gramática de Uso Da Língua Inglesa](http://mthumbs.buscape.com.br/livros/gramatica-de-uso-da-lingua-inglesa-a-gramatica-do-ingles-na-ponta-da-lingua-9788535241570_300x300-PU6e7a88bd_1.jpg) | Português | Lendo |
 | ![Batman Begins](http://english-e-books.net/books/elementary/Batman_Begins-Goyer_David/Batman_Begins-Goyer_David.jpg) | Inglês | 2017 |
 | ![ECMAScript 6](https://cdn.shopify.com/s/files/1/0155/7645/products/yPVDxju4tCeqY45tdQtvOZo6bdCztD7A1gUZHRoZ5wU_large.jpg?v=1490381498) | Português | 2017 |
 | ![Angular](https://cdn.shopify.com/s/files/1/0155/7645/products/Amazon-Aplicacoes-com-Angular_large.jpg?v=1494010530) | Português | 2017 |

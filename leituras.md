@@ -5,6 +5,7 @@
 
 | Livro | Idioma | Data Leitura |
 | ------ | ------ | ------ |
+| ![Just Good Friends](http://english-e-books.net/books/elementary/Just_Good_Friends-Penny_Hancock/Just_Good_Friends-Penny_Hancock.jpg) | Inglês | 2017 |
 | ![The Lady or the  Tiger](http://english-e-books.net/books/elementary/The_Lady_or_the_Tiger-Frank_Stockton/The_Lady_or_the_Tiger-Frank_Stockton.jpg) | Inglês | 2017 |
 | ![Gramática de Uso Da Língua Inglesa](http://mthumbs.buscape.com.br/livros/gramatica-de-uso-da-lingua-inglesa-a-gramatica-do-ingles-na-ponta-da-lingua-9788535241570_300x300-PU6e7a88bd_1.jpg) | Português | 2017 |
 | ![Batman Begins](http://english-e-books.net/books/elementary/Batman_Begins-Goyer_David/Batman_Begins-Goyer_David.jpg) | Inglês | 2017 |

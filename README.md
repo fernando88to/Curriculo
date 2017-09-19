@@ -61,7 +61,9 @@ Alfresco Open Source Enterprise | [Ambiente Livre](http://www.ambientelivre.com.
 * Desenvolvimento Ágil(Extreme Programming,  Scrum, YouTrack )
 * Testes automatizados
 * Integração Contínua
+* Scratch - Linguagem de programação gráfica voltada para o ensino de crianças
 * Gestão de Projetos - PMBOK
+
 
 
 ## Idiomas

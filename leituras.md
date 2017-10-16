@@ -5,7 +5,7 @@
 
 | Livro | Idioma | Data Leitura |
 | ------ | ------ | ------ |
-| ![The Stranger](http://english-e-books.net/books/elementary/The_Stranger-Norman_Whitney/The_Stranger-Norman_Whitney.jpg) | Inglês | Lendo |
+| ![The Stranger](http://english-e-books.net/books/elementary/The_Stranger-Norman_Whitney/The_Stranger-Norman_Whitney.jpg) | Inglês | 2017 |
 | ![Alien at School](http://english-e-books.net/books/elementary/Alien_at_School-Michelle_Brown/Alien_at_School-Michelle_Brown.jpg) | Inglês | 2017 |
 | ![Scratch](https://cdn.shopify.com/s/files/1/0155/7645/products/YenvGixkQWFaq3oZpZr7dGXue8geB59fbwBHgS23orQ_large.jpg?v=1496341655) | Português | 2017 |
 | ![The Lady or the  Tiger](http://english-e-books.net/books/elementary/The_Lady_or_the_Tiger-Frank_Stockton/The_Lady_or_the_Tiger-Frank_Stockton.jpg) | Inglês | 2017 |

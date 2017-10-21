@@ -9,19 +9,23 @@ Trabalho a 6 anos com desenvolvimento web, principalmente na plataforma Java EE,
 ## Experiência Profissional
 * Tribunal de Justiça TO - Início em 11/2011
 
->Atualmente exercendo a  função de Analista de Sistemas Web, responsável pelo levantamento de requisitos,  modelagem, elaboração de manuais e implementação de sistemas web. Dentre as atividades destaca-se integração entre sistemas da área pública com a iniciativa> privada e com outros orgão públicos. 
+>Atualmente exercendo a  função de Analista de Sistemas Web, responsável pelo levantamento de requisitos,  modelagem, elaboração de manuais e implementação de sistemas web. Dentre as atividades destaca-se integração entre sistemas da área pública com a iniciativa privada e com outros orgão públicos. 
 
 * Técnico em Tecnologia da Informação IFTO  - 04/2011 até 11/2011
-   - Atividades de manutenção computadores e redes.
+
+>Atividades de manutenção computadores e redes.
 
 * Programador IGEPREV TO - 02/2011 até 04/2011
-  - Desenvolvimento e manutenção de sistema previdenciário na plataforma JEE.
+
+> Desenvolvimento e manutenção de sistema previdenciário na plataforma JEE.
 
 * Desenvolvedor Web na Prefeitura de Palmas -  01/2010 até 02/2011
-    - Desenvolvimento de portais e sistemas internos, utilizando a metodologia Scrum juntamente com Django/Python.
+
+>Desenvolvimento de portais e sistemas internos, utilizando a metodologia Scrum juntamente com Django/Python.
 
 * Bolsista Desenvolvedor SIGA, projeto de pesquisa do MEC  - 06/2009 até 06/2011
-  - Desenvolvimento de um sistema acadêmico, utilizado atualmente pela maiorias dos Institutos Federais, o qual foi desenvolvido em na plataforma Java (JSF, GlassFish, eclipse e Hibertante). O sistema foi desenvolvido de forma colaborativa pelos IFs do Brasil e gerenciado via Redmine.
+
+>Desenvolvimento de um sistema acadêmico, utilizado atualmente pela maiorias dos Institutos Federais, o qual foi desenvolvido em na plataforma Java (JSF, GlassFish, eclipse e Hibertante). O sistema foi desenvolvido de forma colaborativa pelos IFs do Brasil e gerenciado via Redmine.
 
 
 ## Formação

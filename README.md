@@ -54,9 +54,8 @@ Alfresco Open Source Enterprise | [Ambiente Livre](http://www.ambientelivre.com.
 * Node JS
 * Linux (Ubuntu e Deepin)
 * Desenvolvimento Ágil(Extreme Programming,  Scrum, YouTrack )
-* Oracle e MongoDB
+* Banco de Dados (Oracle e MongoDB)
 * Cloud( Google App Engine, GetUpCloud)
-* Node JS
 * EcmaScript 6
 * Ionic 2 (desenvolvimento híbrido para Android e IOS)
 * Android (desenvolvimento nativo)

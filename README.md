@@ -51,14 +51,15 @@ Alfresco Open Source Enterprise | [Ambiente Livre](http://www.ambientelivre.com.
 ## Conhecimentos
 
 * Grails, Groovy, Java
+* Node JS
+* Linux (Ubuntu e Deepin)
+* Desenvolvimento Ágil(Extreme Programming,  Scrum, YouTrack )
 * Oracle e MongoDB
 * Cloud( Google App Engine, GetUpCloud)
 * Node JS
 * EcmaScript 6
 * Ionic 2 (desenvolvimento híbrido para Android e IOS)
 * Android (desenvolvimento nativo)
-* Linux (Ubuntu e Deepin)
-* Desenvolvimento Ágil(Extreme Programming,  Scrum, YouTrack )
 * Testes automatizados
 * Integração Contínua
 * Scratch - Linguagem de programação gráfica voltada para o ensino de crianças

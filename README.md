@@ -73,4 +73,4 @@ Alfresco Open Source Enterprise | [Ambiente Livre](http://www.ambientelivre.com.
 
 ## Idiomas
 
-* Inglês (fluente em leitura(desenvolvimento_de_aplicativo_moveis.md), básico  )
+* Inglês (fluente em leitura (leituras.md), básico  )

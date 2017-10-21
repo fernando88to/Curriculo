@@ -20,7 +20,7 @@ Trabalho a 6 anos com desenvolvimento web, principalmente na plataforma Java EE,
     - Desenvolvimento de portais e sistemas internos utilizando a metodologia Scrum com Django/Python.
 
 * Bolsista Desenvolvedor SIGA, projeto de pesquisa do MEC  - 06/2009 até 06/2011
-  - Desenvolvimento de um sistema acadêmico, utilizado atualmente pela maiorias dos Institutos Federais, o qual foi desenvolvido em java(JSF, GlassFish, eclipse e Hibertante). O sistema foi desenvolvido de forma colaborativa pelos IFs do Brasil e gerenciado pelo Redmine.
+  - Desenvolvimento de um sistema acadêmico, utilizado atualmente pela maiorias dos Institutos Federais, o qual foi desenvolvido em na plataforma Java (JSF, GlassFish, eclipse e Hibertante). O sistema foi desenvolvido de forma colaborativa pelos IFs do Brasil e gerenciado via Redmine.
 
 
 ## Formação

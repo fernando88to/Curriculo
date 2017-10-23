@@ -31,7 +31,7 @@ Trabalho a 6 anos com desenvolvimento web, principalmente na plataforma Java EE,
 ## Formação
 | Curso         | Instituição | Nível | Modalidade | Ano Conclusão|
 | -------------|-------------|:---------:|:-----:|:-----:|
-|[Desenvolvimento de Aplicativos Móveis](desenvolvimento_de_aplicativo_moveis.md) | [Faculdade Católica do Tocantins](http://www.catolica-to.edu.br/) | Pós | presencial | Em andamento|
+|[Desenvolvimento de Aplicativos Móveis](desenvolvimento_de_aplicativo_moveis.md) | [Faculdade Católica do Tocantins](http://www.catolica-to.edu.br/) | Pós Graduação | presencial | Em andamento|
 |Técnologo em Sistema para Internet | [IFTO](http://www.ifto.edu.br) | Superior | presencial | 2013
 |Técnico em Informática | [IFTO](http://www.ifto.edu.br/) | Técnico| presencial | 2009 |
 

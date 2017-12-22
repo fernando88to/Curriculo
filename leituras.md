@@ -5,6 +5,8 @@
 
 | Livro | Idioma | Data Leitura |
 | ------ | ------ | ------ |
+
+| ![The Client](http://english-e-reader.net/covers/The_Client-John_Grisham.jpg) | Inglês | 2017 |
 | ![Master Your Project Management Basic Concepts](https://images-na.ssl-images-amazon.com/images/I/51kZHrkMlVL.jpg) | Inglês | Lendo |
 | ![The Adventures in the grasslands](http://english-e-reader.net/covers/The_Adventures_in_The_Grasslands-John_Bookworm.jpg) | Inglês | Lido |
 | ![The Stranger](http://english-e-books.net/books/elementary/The_Stranger-Norman_Whitney/The_Stranger-Norman_Whitney.jpg) | Inglês | 2017 |

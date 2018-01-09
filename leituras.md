@@ -5,6 +5,7 @@
 
 | Livro | Idioma | Data Leitura |
 | ------ | ------ | ------ |
+| ![Journey to the Center of the Earth](http://english-e-reader.net/covers/Journey_to_the_Center_of_the_Earth-Jules_Verne.jpg) | Inglês | Lendo |
 | ![Mary, Queen of Scots](http://english-e-reader.net/covers/Mary_Queen_of_Scots-Tim_Vicary.jpg) | Inglês | 2018 |
 | ![The Client](http://english-e-reader.net/covers/The_Client-John_Grisham.jpg) | Inglês | 2017 |
 | ![The Adventures Strange](http://english-e-reader.net/covers/The_Adventures_in_The_Grasslands-John_Bookworm.jpg) | Inglês | 2017 |

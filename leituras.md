@@ -5,7 +5,7 @@
 
 | Livro | Idioma | Data Leitura |
 | ------ | ------ | ------ |
-| ![Master Your Project Management Basic Concepts](https://images-na.ssl-images-amazon.com/images/I/51kZHrkMlVL.jpg) | Inglês | Lendo |
+| ![The Client](http://english-e-reader.net/covers/The_Client-John_Grisham.jpg) | Inglês | 2017 |
 | ![The Adventures Strange](http://english-e-reader.net/covers/The_Adventures_in_The_Grasslands-John_Bookworm.jpg) | Inglês | Lendo |
 | ![The Stranger](http://english-e-books.net/books/elementary/The_Stranger-Norman_Whitney/The_Stranger-Norman_Whitney.jpg) | Inglês | 2017 |
 | ![Alien at School](http://english-e-books.net/books/elementary/Alien_at_School-Michelle_Brown/Alien_at_School-Michelle_Brown.jpg) | Inglês | 2017 |

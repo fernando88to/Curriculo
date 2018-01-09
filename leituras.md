@@ -7,7 +7,7 @@
 | ------ | ------ | ------ |
 | ![Mary, Queen of Scots](http://english-e-reader.net/covers/Mary_Queen_of_Scots-Tim_Vicary.jpg) | Inglês | 2018 |
 | ![The Client](http://english-e-reader.net/covers/The_Client-John_Grisham.jpg) | Inglês | 2017 |
-| ![The Adventures Strange](http://english-e-reader.net/covers/The_Adventures_in_The_Grasslands-John_Bookworm.jpg) | Inglês | Lendo |
+| ![The Adventures Strange](http://english-e-reader.net/covers/The_Adventures_in_The_Grasslands-John_Bookworm.jpg) | Inglês | 2017 |
 | ![The Stranger](http://english-e-books.net/books/elementary/The_Stranger-Norman_Whitney/The_Stranger-Norman_Whitney.jpg) | Inglês | 2017 |
 | ![Alien at School](http://english-e-books.net/books/elementary/Alien_at_School-Michelle_Brown/Alien_at_School-Michelle_Brown.jpg) | Inglês | 2017 |
 | ![Scratch](https://cdn.shopify.com/s/files/1/0155/7645/products/YenvGixkQWFaq3oZpZr7dGXue8geB59fbwBHgS23orQ_large.jpg?v=1496341655) | Português | 2017 |

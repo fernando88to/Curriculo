@@ -5,6 +5,7 @@
 
 | Livro | Idioma | Data Leitura |
 | ------ | ------ | ------ |
+| ![Master your Project Management](https://images-na.ssl-images-amazon.com/images/I/51kZHrkMlVL.jpg) | Inglês | Lendo |
 | ![Catwoman](http://english-e-reader.net/covers/Catwoman-Jones_Jasmin.jpg) | Inglês | Lendo |
 | ![Journey to the Center of the Earth](http://english-e-reader.net/covers/Journey_to_the_Center_of_the_Earth-Jules_Verne.jpg) | Inglês | 2018 |
 | ![Mary, Queen of Scots](http://english-e-reader.net/covers/Mary_Queen_of_Scots-Tim_Vicary.jpg) | Inglês | 2018 |

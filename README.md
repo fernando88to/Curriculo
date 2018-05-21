@@ -78,6 +78,6 @@ Alfresco Open Source Enterprise | [Ambiente Livre](http://www.ambientelivre.com.
 
 * Inglês
     * [apaixonado por leitura](leituras.md)
-    * Aprovado em exame e proficiência pela [Universidade Federal do Tocantins](www.uft.edu.br/centrodeidiomas) 
+    * Aprovado em exame e proficiência pela [Universidade Federal do Tocantins](http://www.uft.edu.br/centrodeidiomas) 
 
 

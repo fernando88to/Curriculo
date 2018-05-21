@@ -33,7 +33,8 @@ Trabalho a 6 anos com desenvolvimento web, principalmente na plataforma Java EE,
 ## Formação
 | Curso         | Instituição | Nível | Modalidade | Ano Conclusão|
 | -------------|-------------|:---------:|:-----:|:-----:|
-|[Desenvolvimento de Aplicativos Móveis](desenvolvimento_de_aplicativo_moveis.md) | [Faculdade Católica do Tocantins](http://www.catolica-to.edu.br/) | Pós Graduação | presencial | Em andamento|
+|[Modelagem Computacional de Sistemas](https://github.com/fernando88to/mestrado_modelagem_computacional_uft/wiki) | [Universidade Federal do Tocantins](http://uft.edu.br/ppgmcs) | Mestrado | presencial | em andamento |
+|[Desenvolvimento de Aplicativos Móveis](desenvolvimento_de_aplicativo_moveis.md) | [Faculdade Católica do Tocantins](http://www.catolica-to.edu.br/) | Pós Graduação | presencial | 2018 |
 |Técnologo em Sistema para Internet | [IFTO](http://www.ifto.edu.br) | Superior | presencial | 2013
 |Técnico em Informática | [IFTO](http://www.ifto.edu.br/) | Técnico| presencial | 2009 |
 

@@ -76,4 +76,6 @@ Alfresco Open Source Enterprise | [Ambiente Livre](http://www.ambientelivre.com.
 
 ## Idiomas
 
-* Inglês - [fluente em leitura](leituras.md), básico em 'speak'
+* Inglês - [apaixonado por leitura](leituras.md), aprovado em exame e proficiência pela [Universidade Federal do Tocantins](www.uft.edu.br/centrodeidiomas) 
+
+

@@ -13,7 +13,7 @@
 | ![The Client](http://english-e-reader.net/covers/The_Client-John_Grisham.jpg) | Inglês | 2017 |
 | ![The Adventures Strange](http://english-e-reader.net/covers/The_Adventures_in_The_Grasslands-John_Bookworm.jpg) | Inglês | 2017 |
 | ![The Stranger](https://english-e-reader.net/covers/The_Stranger-Norman_Whitney.jpg) | Inglês | 2017 |
-| ![Alien at School](http://english-e-books.net/books/elementary/Alien_at_School-Michelle_Brown/Alien_at_School-Michelle_Brown.jpg) | Inglês | 2017 |
+| ![Alien at School](https://english-e-reader.net/covers/Alien_at_School-Michelle_Brown.jpg) | Inglês | 2017 |
 | ![Scratch](https://cdn.shopify.com/s/files/1/0155/7645/products/YenvGixkQWFaq3oZpZr7dGXue8geB59fbwBHgS23orQ_large.jpg?v=1496341655) | Português | 2017 |
 | ![The Lady or the  Tiger](http://english-e-books.net/books/elementary/The_Lady_or_the_Tiger-Frank_Stockton/The_Lady_or_the_Tiger-Frank_Stockton.jpg) | Inglês | 2017 |
 | ![Gramática de Uso Da Língua Inglesa](http://mthumbs.buscape.com.br/livros/gramatica-de-uso-da-lingua-inglesa-a-gramatica-do-ingles-na-ponta-da-lingua-9788535241570_300x300-PU6e7a88bd_1.jpg) | Português | 2017 |

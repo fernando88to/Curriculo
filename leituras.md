@@ -5,9 +5,9 @@
 
 | Livro | Idioma | Data Leitura |
 | ------ | ------ | ------ |
-| ![The 5 Love Languages](https://images-na.ssl-images-amazon.com/images/I/51ItBwnbJ6L._SX322_BO1,204,203,200_.jpg) | Inglês | Lendo |
+| ![The Butterworth Mystery](https://english-e-reader.net/covers/The_Butterworth_Mystery-Gillian_Larkin.jpg) | Inglês | 2018 |
 | ![Master your Project Management](https://images-na.ssl-images-amazon.com/images/I/51kZHrkMlVL.jpg) | Inglês | Lendo |
-| ![Catwoman](http://english-e-reader.net/covers/Catwoman-Jones_Jasmin.jpg) | Inglês | Lendo |
+| ![Catwoman](http://english-e-reader.net/covers/Catwoman-Jones_Jasmin.jpg) | Inglês | 2018 |
 | ![Journey to the Center of the Earth](http://english-e-reader.net/covers/Journey_to_the_Center_of_the_Earth-Jules_Verne.jpg) | Inglês | 2018 |
 | ![Mary, Queen of Scots](http://english-e-reader.net/covers/Mary_Queen_of_Scots-Tim_Vicary.jpg) | Inglês | 2018 |
 | ![The Client](http://english-e-reader.net/covers/The_Client-John_Grisham.jpg) | Inglês | 2017 |

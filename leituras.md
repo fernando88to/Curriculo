@@ -5,6 +5,7 @@
 
 | Livro | Idioma | Data Leitura |
 | ------ | ------ | ------ |
+| ![Node Succinctly](http://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/NodeJs-Succinctly.jpg) | Inglês | 2018 |
 | ![The Godfather](https://english-e-reader.net/covers/The_Godfather-Mario_Puzo.jpg) | Inglês | Lendo |
 | ![The Butterworth Mystery](https://english-e-reader.net/covers/The_Butterworth_Mystery-Gillian_Larkin.jpg) | Inglês | 2018 |
 | ![Master your Project Management](https://images-na.ssl-images-amazon.com/images/I/51kZHrkMlVL.jpg) | Inglês | Lendo |

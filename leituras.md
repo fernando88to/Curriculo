@@ -5,6 +5,7 @@
 
 | Livro | Idioma | Data Leitura |
 | ------ | ------ | ------ |
+| ![JavaScript Succinctly](http://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/Javascript-Succinctly.jpg) | Inglês | Lendo |
 | ![Node Succinctly](http://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/NodeJs-Succinctly.jpg) | Inglês | 2018 |
 | ![The Godfather](https://english-e-reader.net/covers/The_Godfather-Mario_Puzo.jpg) | Inglês | Lendo |
 | ![The Butterworth Mystery](https://english-e-reader.net/covers/The_Butterworth_Mystery-Gillian_Larkin.jpg) | Inglês | 2018 |

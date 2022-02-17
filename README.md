@@ -1,13 +1,14 @@
-# Currículo - Fernando Henrique Lima Soares
+# Curriculum Vitae - Fernando Henrique Lima Soares
 
 email: fernando88to@gmail.com
 
 
-Trabalho a 8 anos com desenvolvimento web, principalmente na plataforma Java EE, contudo tenho grande interesses por outras e tecnologias, dessa forma atualmente venho buscando conhecimento nas áreas de cloud e mobile.
+I've been working with web development for 11 years, mainly on the Java EE platform, however I have great interests in other technologies, so I'm currently seeking knowledge in the cloud and mobile areas.
 
 
 ## Experiência Profissional
-* Tribunal de Justiça TO - Início em 11/2011
+
+* Tribunal de Justiça TO - Start on 11/2011
 
 >Atualmente exercendo a  função de Analista de Sistemas Web, responsável pelo levantamento de requisitos,  modelagem, elaboração de manuais e implementação de sistemas web. Dentre as atividades destaca-se integração entre sistemas da área pública com a iniciativa privada e com outros orgão públicos. 
 

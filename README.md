@@ -61,17 +61,15 @@ Alfresco Open Source Enterprise | [Ambiente Livre](http://www.ambientelivre.com.
 
 * Grails, Groovy, Java
 * Node JS
-* Linux (Ubuntu e Deepin)
-* Desenvolvimento Ágil(Extreme Programming,  Scrum, YouTrack )
-* Banco de Dados (Oracle e MongoDB)
-* Cloud( Google App Engine, GetUpCloud)
-* EcmaScript 6
-* Ionic 2 (desenvolvimento híbrido para Android e IOS)
-* Android (desenvolvimento nativo)
+* Linux
+* Docker
+* EcmaScript 6, Typescript
+* Banco de Dados (Oracle)
 * Testes automatizados
 * Integração Contínua
-* Scratch - Linguagem de programação gráfica voltada para o ensino de crianças
-* Gestão de Projetos - PMBOK
+* Jenkins
+* Artifactory and Nexus
+* Desenvolvimento Ágil(Extreme Programming,  Scrum, YouTrack )
 
 
 
